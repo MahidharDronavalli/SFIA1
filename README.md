@@ -107,5 +107,7 @@ To keep this section concise, rather then showing both the user and admin front-
 ![Signupemailexists](https://user-images.githubusercontent.com/85611645/123758644-0b971e80-d8b7-11eb-9a53-d64157c86698.png)
 ![Passwordwrong](https://user-images.githubusercontent.com/85611645/123758650-0f2aa580-d8b7-11eb-984a-4b83b39d9183.png)
 ![notes](https://user-images.githubusercontent.com/85611645/123758665-118cff80-d8b7-11eb-8881-0425111d7069.png)
+![image](https://user-images.githubusercontent.com/85611645/123759108-819b8580-d8b7-11eb-8992-22f20e48b19a.png)
+![image](https://user-images.githubusercontent.com/85611645/123759269-a5f76200-d8b7-11eb-826a-bb3f61aab047.png)
 
 
